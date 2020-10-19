@@ -21,5 +21,3 @@ def binary_search(value, l):
             if i == value:
                 return l.index(i)
 
-l = [1,2,3,4,5,6,7,8,9]
-print(binary_search(1,l))
